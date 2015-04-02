@@ -1,0 +1,36 @@
+
+The example on github:
+https://github.com/mstade/passport-google-oauth2/blob/master/example/app.js
+
+
+
+Here follows the link to find the credential for this project:
+https://console.developers.google.com/project/openddata88/apiui/credential
+
+
+Remember in order for this to work the following must be done:
+Go to https://console.developers.google.com and make sure under "APIs" that you have following APIs enabled:
+
+"Contacts API"
+"Google+ API"
+
+
+
+Client ID	
+144183426431-on4vq84epahj66jh2tof67ec4dkvo88l.apps.googleusercontent.com
+Email address	
+144183426431-on4vq84epahj66jh2tof67ec4dkvo88l@developer.gserviceaccount.com
+Client secret	
+GG788wjOXpU0ZuYwuMACVEMT
+Redirect URIs	
+https://oauthopenidgoogleplus-diegomary.c9.io/oauth2callback
+Javascript Origins	
+https://oauthopenidgoogleplus-diegomary.c9.io/
+
+
+
+
+
+
+// Maps limits to 25.000  loads per day
+https://developers.google.com/maps/usagelimits/?utm_referrer=v3
